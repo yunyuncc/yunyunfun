@@ -1,0 +1,3 @@
+[submodule "yunyunfun/themes/hugo-coder"]
+	path = yunyunfun/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
